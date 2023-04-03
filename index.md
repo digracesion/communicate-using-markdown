@@ -13,5 +13,5 @@
 
 # Sample Image Inputs
 
-![Image of A Japanese Store Front with bicycles parked in front](https://octodex.github.com/images/yaktocat.png](https://unsplash.com/photos/hwLAI5lRhdM)
+![Image of A Japanese Store Front with bicycles parked in front](https://unsplash.com/photos/hwLAI5lRhdM)
   
