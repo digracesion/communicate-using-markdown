@@ -22,4 +22,10 @@
 $ git init
 ```
 
+# Adding a Task List
   
+- [x] Activate Github Pages
+- [x] Outline my portfolio
+- [x] Create a cool introduction message
+- [x] Add cool animations
+- [ ] Publish changes
