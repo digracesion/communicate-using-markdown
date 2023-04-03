@@ -2,7 +2,7 @@
 ###### Creating a sample file using markdown
 
 
-# Sample Markdown Styles
+# Sample Header Styles
 
 # Header 1 <h1>
 ## Header 2 <h2>
@@ -10,3 +10,8 @@
 #### Header 4 <h4>
 ##### Header 5 <h5>
 ###### Header 6 <h6>
+
+# Sample Image Inputs
+
+![Image of A Japanese Store Front with bicycles parked in front](https://octodex.github.com/images/yaktocat.png](https://unsplash.com/photos/hwLAI5lRhdM)
+  
